@@ -1,15 +1,15 @@
 ## There are 2 projects
 
-## Nashville Housing
+### Nashville Housing
 
-- Duplicated removed
+- Duplicates removed
 - Date column converted into date format
 - PropertyAddress column populated
 - Address columns broke out into individual columns (address, city, state)
 - 'Y' and 'N' values changed to 'Yes' or 'No'
 - Unnecessary and changed columns deleted (SaleDate, OwnerAddress, Taxdistrict, PropertyAddress)
 
-## Covid Data
+### Covid Data
 
 - Data separated into CovidDeaths and CovidVaccinations tables
 - some analysis done
